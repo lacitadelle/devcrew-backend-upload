@@ -2,7 +2,7 @@
 
 วิธีการรัน
 1. ```git clone https://github.com/lacitadelle/devcrew-backend-upload.git```
-2. ```cd /devcrew-backend-upload.git```
+2. ```cd /devcrew-backend-upload```
 3. ```npm install```
 4. ```npm start```
 
